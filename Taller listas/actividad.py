@@ -24,8 +24,8 @@
 #print("Lista de los aprendices con la instructora :", aprendices)
 
 # Contar cuantos aprendices tienen 18 años
-#aprendices18Años = edades.count(18)
-#print("Cantidad de aprendices con 18 años:", aprendices18Años)
+#aprendices18Edad = edades.count(18)
+#print("Cantidad de aprendices con 18 años:", aprendices18Edad)
 
 # Agregar un aprendiz al final de la lista
 #aprendizNuevo = "Sandra Milena Gomez Tapiero"
