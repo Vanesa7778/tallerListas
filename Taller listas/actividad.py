@@ -3,8 +3,9 @@
 #aprendices = []
 #edades = []
 
-#nombre = input("Ingrese los nombres de los aprendices: ")
-#edad = int(input("Ingrese la edad de los aprendices: "))
+#for i  in range(31):
+    #nombre = input("Ingrese los nombres de los aprendices: ")
+    #edad = int(input("Ingrese la edad de los aprendices: "))
     #aprendices.append(nombre)
     #edades.append(edad)
 
